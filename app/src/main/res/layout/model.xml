@@ -1,0 +1,38 @@
+<android.support.v7.widget.CardView android:layout_width="match_parent"
+    android:layout_height="300dp"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/catd_view"
+    card_view:cardCornerRadius="5dp"
+    card_view:cardElevation="5dp"
+    android:layout_margin="10dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:id="@+id/kapil"
+            android:padding="10dp"
+            android:src="@drawable/nw"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textkaps"
+            android:layout_below="@+id/kapil"
+            android:text="The Kapil sharma Show"
+            android:layout_margin="5dp"
+            android:layout_alignParentLeft="true"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tgdg"
+            android:layout_below="@+id/textkaps"
+            android:text="the kaplddmkmmd"
+            android:layout_marginLeft="3dp"
+            android:layout_alignParentLeft="true"/>
+
+
+    </RelativeLayout>
+</android.support.v7.widget.CardView>
