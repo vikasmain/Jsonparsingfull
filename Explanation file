@@ -6,6 +6,7 @@ u can also used retrofit library.
 compile this volley library in your gradle
     compile 'com.mcxiaoke.volley:library:1.0.19'.
 it also contains beautiful BAseAdapter class for implementing a beautiful custom listview in android.
+We parse Json using JsonArray objects here
 
     
 
