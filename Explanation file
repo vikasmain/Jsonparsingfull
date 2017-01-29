@@ -5,5 +5,6 @@ U can also use 000webhost.com or hostinger for free webhosting.I prefer 000webho
 u can also used retrofit library.
 compile this volley library in your gradle
     compile 'com.mcxiaoke.volley:library:1.0.19'.
+it also contains beautiful BAseAdapter class.
     
 
