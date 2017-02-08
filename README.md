@@ -12,3 +12,4 @@ compile 'com.android.support:appcompat-v7:23.4.0'
     
 2.we used gettabatIcon() for displaying icons with text in a tab here
 3.used fullscreenvideo mode here.
+4.for this we used transitions activity also.
