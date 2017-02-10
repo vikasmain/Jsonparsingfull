@@ -22,7 +22,7 @@
                 android:clickable="true"
                 android:scaleType="fitXY"
                 android:background="?attr/selectableItemBackground"/>
-            <TextView
+            <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/title"
@@ -32,7 +32,7 @@
                 android:paddingRight="10dp"
                 android:textSize="15dp"
                 android:textColor="@color/colorAccent"/>
-            <TextView
+            <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/count"
@@ -41,6 +41,19 @@
                 android:paddingBottom="5dp"
                 android:paddingRight="10dp"
                 android:textSize="12dp"
+                android:textColor="@color/colorAccent"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/comment"
+                android:layout_below="@+id/count"
+                android:paddingLeft="10dp"
+                android:paddingBottom="5dp"
+                android:paddingRight="10dp"
+                android:textSize="15dp"
+                android:text="Comment here"
+                android:textStyle="bold|italic"
+                android:layout_centerHorizontal="true"
                 android:textColor="@color/colorAccent"/>
             <ImageView
                 android:layout_width="20dp"
