@@ -5,17 +5,38 @@
         <item
             android:id="@+id/nav_camera"
             android:icon="@drawable/ic_menu_camera"
-            android:title="Import" />
-
+            android:title="Trending In World" />
+        <item
+            android:id="@+id/nav_se"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Science and Technology" />
+        <item
+            android:id="@+id/nav_sea"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Today's Notifications" />
     </group>
 
     <item android:title="Communicate">
         <menu>
 
             <item
+                android:id="@+id/nav_sen"
+                android:icon="@drawable/ic_menu_send"
+                android:title="About us" />
+
+            <item
                 android:id="@+id/nav_send"
                 android:icon="@drawable/ic_menu_send"
-                android:title="Send" />
+                android:title="Invite" />
+            <item
+                android:id="@+id/nav_sen1"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Like us on Facebook" />
+
+            <item
+                android:id="@+id/nav_send23"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send Feedback" />
         </menu>
     </item>
 
