@@ -1,4 +1,4 @@
-package com.example.dell.wasa;
+package com.example.vikas.wasa;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
