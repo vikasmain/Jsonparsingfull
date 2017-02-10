@@ -72,31 +72,13 @@
             android:paddingRight="@dimen/feed_item_status_pad_left_right"
             android:textColorLink="@color/link" />
 
-        <com.example.vikas.wasa.FeedImageView
-
+        <com.example.vikas.customfeed.FeedImageView
             android:id="@+id/feedImage1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@color/white"
             android:scaleType="fitXY"
-            android:visibility="visible"
-             />
-        <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Comment here"
-                android:textSize="20dp"
-                android:layout_marginLeft="10dp"
-                android:textStyle="bold|italic"
-                android:id="@+id/lotext"/>
-
-
-            </LinearLayout>
+            android:visibility="visible" />
     </LinearLayout>
 
 </LinearLayout>

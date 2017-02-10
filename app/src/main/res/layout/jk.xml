@@ -8,6 +8,7 @@
             android:layout_height="wrap_content"
             android:text="New Text"
             android:id="@+id/tjr"
+            android:textColor="@color/colorAccent"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="68dp" />
