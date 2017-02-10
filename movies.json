@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Times Of India",
+        "image": "http://192.168.56.1/black_button.png",
+        "rating": 8.3,
+        "releaseYear": 2014,
+	    "url": "http://www.google.com",
+        "genre": ["Action", "Drama", "Sci-Fi"]
+    },
+	{
+        "title": "Economics Times",
+        "image": "http://192.168.56.1/black_button.png",
+        "rating": 8.3,
+        "releaseYear": 2014,
+		 "url": "http://www.thetimesofindia.com",
+        "genre": ["Action", "Drama", "Sci-Fi"]
+    },
+	{
+        "title": "Hidustan Times",
+        "image": "http://192.168.56.1/black_button.png",
+        "rating": 8.3,
+        "releaseYear": 2014,
+		 "url": "http://www.navodayatimes.com",
+        "genre": ["Action", "Drama", "Sci-Fi"]
+    },
+	{
+        "title": "Navodaya Times",
+        "image": "http://192.168.56.1/black_button.png",
+        "rating": 8.3,
+        "releaseYear": 2014,
+		 "url": "http://www.hindustantimes.com",
+        "genre": ["Action", "Drama", "Sci-Fi"]
+    },
+	{
+        "title": "Dainik Jagran",
+        "image": "http://192.168.56.1/black_button.png",
+        "rating": 8.3,
+        "releaseYear": 2014,
+				 "url": "http://www.indiawix.com",
+        "genre": ["Action", "Drama", "Sci-Fi"]
+    },
+    {
+        "title": "Punjab Kesari",
+        "image": "http://192.168.56.1/black_button.png",
+        "rating": 8.3,
+        "releaseYear": 2014,
+				 "url": "http://ti.me/1qW8MLB",
+        "genre": ["Action", "Drama", "Sci-Fi"]
+    }
+]
