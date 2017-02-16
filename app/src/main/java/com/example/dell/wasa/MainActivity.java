@@ -20,7 +20,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/*created by dell on 1/2/2016*/
 @SuppressWarnings("deprecation")
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
